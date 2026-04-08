@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Sterling Fence & Building",
+    "phone": "+12167079477",
+    "category": "fence company",
+    "city": "Cleveland",
+    "state": "OH"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Cleveland's Trusted Fence & Building Experts",
+      "heroSubline": "Providing durable, quality fences and building solutions for homes and businesses across Northeast Ohio. We stand behind our work, offering reliability and craftsmanship you can count on.",
+      "aboutTitle": "Built on Integrity, Rooted in Cleveland",
+      "aboutText": [
+        "Sterling Fence & Building started with a simple goal: to provide Cleveland residents with superior fencing solutions built to withstand our harsh winters and humid summers. We're a family-owned business that understands the importance of security, privacy, and curb appeal.",
+        "Our approach is simple: honest communication, meticulous workmanship, and premium materials. We don't cut corners, and we treat every project, big or small, with the same dedication and attention to detail. We believe in doing the job right the first time, ensuring lasting value for our clients.",
+        "We're proud to be a part of the Cleveland community. We actively support local initiatives and strive to create a positive impact through our work. From Tremont to Ohio City, we're committed to enhancing the beauty and security of our neighborhoods."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Cleveland's climate and housing styles, ensuring the right fence for your property."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We use premium-grade lumber, vinyl, and metal for lasting durability and beauty."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our experienced team provides professional installation, ensuring a secure and aesthetically pleasing result."
+        },
+        {
+          "title": "Satisfaction Guaranteed",
+          "description": "We stand behind our workmanship and are committed to your complete satisfaction."
+        }
+      ],
+      "ctaHeadline": "Protect & Beautify Your Property",
+      "ctaSubline": "Get a free estimate for your fence or building project today. Call us to discuss your needs and explore your options."
+    },
+    "services": [
+      {
+        "slug": "wood-fence-installation",
+        "name": "Wood Fence Installation",
+        "shortDescription": "Classic wood fences installed with Cleveland's weather in mind.",
+        "description": "Wood fences offer a timeless aesthetic and natural warmth, making them a popular choice for Cleveland homeowners. We specialize in installing a variety of wood fence styles, from traditional picket fences to privacy fences. Our team carefully selects premium-grade lumber, pressure-treated for maximum resistance to rot, decay, and insect damage, crucial in Cleveland's damp climate. We account for Cleveland's freeze-thaw cycles, using proper post depth and spacing to prevent shifting and ensure long-term stability. We offer various wood types, including cedar, pine, and treated lumber, allowing you to customize the look and feel of your fence. Whether you're looking to define your property lines, create a secure backyard for your family, or enhance your curb appeal, a wood fence from Sterling Fence & Building is a durable and attractive solution. We handle all aspects of the installation process, from initial site assessment to final cleanup, ensuring a seamless and hassle-free experience. We can also add custom gates and decorative elements to personalize your fence.",
+        "process": [
+          "Step 1: Consultation and site assessment to determine the best fence style and placement for your property.",
+          "Step 2: Material selection and permitting (if required).",
+          "Step 3: Professional installation of posts, rails, and pickets.",
+          "Step 4: Final inspection and cleanup to ensure your complete satisfaction."
+        ],
+        "benefits": [
+          "Enhanced privacy and security",
+          "Improved curb appeal and property value",
+          "Natural aesthetic that complements any landscape",
+          "Durable and long-lasting with proper maintenance"
+        ],
+        "faq": [
+          {
+            "question": "How long will a wood fence last in Cleveland's climate?",
+            "answer": "With proper treatment and maintenance, a wood fence can last 15-20 years in Cleveland. Regular sealing and staining can help protect the wood from the elements and extend its lifespan."
+          },
+          {
+            "question": "What type of wood is best for fencing in Cleveland?",
+            "answer": "Cedar and pressure-treated lumber are excellent choices for fencing in Cleveland. Cedar is naturally resistant to rot and insects, while pressure-treated lumber is chemically treated to resist decay."
+          },
+          {
+            "question": "Do I need a permit to install a fence in Cleveland?",
+            "answer": "Permitting requirements vary depending on your location and the height of the fence. We can help you determine if a permit is needed and assist with the application process."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-fence-installation",
+        "name": "Vinyl Fence Installation",
+        "shortDescription": "Low-maintenance vinyl fences built to last, even with Cleveland winters.",
+        "description": "Vinyl fences are a practical and aesthetically pleasing option for Cleveland homeowners seeking a low-maintenance fencing solution. Unlike wood, vinyl won't rot, warp, or splinter, making it an ideal choice for our region's fluctuating temperatures and humidity. Our vinyl fences are constructed from high-quality, UV-resistant materials that resist fading and discoloration, maintaining their pristine appearance for years to come. We offer a wide range of vinyl fence styles, including privacy fences, picket fences, and decorative fences, allowing you to customize the look of your property. Vinyl fences are easy to clean and require minimal upkeep, saving you time and money. They're also a safe and environmentally friendly option, as they don't require painting, staining, or chemical treatments. Our experienced team provides professional vinyl fence installation, ensuring proper alignment, secure posts, and a flawless finish. We understand the specific challenges of installing fences in Cleveland's soil conditions and take extra precautions to ensure long-term stability. Enjoy a beautiful and durable fence without the hassle of constant maintenance with a vinyl fence from Sterling Fence & Building.",
+        "process": [
+          "Step 1: Initial consultation to discuss your fencing needs and preferences.",
+          "Step 2: Site survey and measurement to determine the layout and materials required.",
+          "Step 3: Professional installation of vinyl posts, rails, and panels.",
+          "Step 4: Final inspection and cleanup to ensure your complete satisfaction."
+        ],
+        "benefits": [
+          "Low maintenance and easy to clean",
+          "Durable and weather-resistant",
+          "Wide range of styles and colors",
+          "Environmentally friendly"
+        ],
+        "faq": [
+          {
+            "question": "How long will a vinyl fence last?",
+            "answer": "A high-quality vinyl fence can last for 30 years or more with minimal maintenance, making it a cost-effective long-term investment."
+          },
+          {
+            "question": "Will a vinyl fence fade in the sun?",
+            "answer": "Our vinyl fences are made from UV-resistant materials that resist fading and discoloration, ensuring they maintain their original color for years to come."
+          },
+          {
+            "question": "Can a vinyl fence be damaged by snow and ice?",
+            "answer": "Vinyl fences are designed to withstand the elements, including snow and ice. However, it's important to clear heavy snow accumulation from around the base of the fence to prevent excessive pressure."
+          }
+        ]
+      },
+      {
+        "slug": "chain-link-fence-installation",
+        "name": "Chain Link Fence Installation",
+        "shortDescription": "Affordable and secure chain link fences for Cleveland properties.",
+        "description": "Chain link fences offer a cost-effective and reliable security solution for residential and commercial properties in Cleveland. Known for their durability and versatility, chain link fences provide a clear boundary and deter unwanted access. We offer a variety of chain link fence options, including galvanized steel and vinyl-coated chain link, to suit your specific needs and budget. Galvanized steel chain link provides excellent corrosion resistance, crucial in Cleveland's salty lakefront environment. Vinyl-coated chain link offers added protection and a more aesthetically pleasing appearance. Our experienced team provides professional chain link fence installation, ensuring proper tension and secure posts for maximum stability and security. We can also install gates and access control systems to enhance the functionality of your chain link fence. Whether you're looking to secure your backyard, protect your business, or contain pets, a chain link fence from Sterling Fence & Building is a practical and dependable solution. We understand the importance of security and provide fast, efficient installation to minimize disruption to your property.",
+        "process": [
+          "Step 1: Site evaluation and measurement to determine the fence layout and material requirements.",
+          "Step 2: Post installation using concrete footings for maximum stability.",
+          "Step 3: Chain link fabric installation with proper tension and secure attachments.",
+          "Step 4: Gate installation and final inspection to ensure proper functionality."
+        ],
+        "benefits": [
+          "Affordable and cost-effective",
+          "Durable and long-lasting",
+          "Provides security and boundary definition",
+          "Versatile and customizable"
+        ],
+        "faq": [
+          {
+            "question": "How long will a chain link fence last?",
+            "answer": "A galvanized steel chain link fence can last for 20-30 years with minimal maintenance. A vinyl-coated chain link fence can last even longer."
+          },
+          {
+            "question": "Can I customize the height of a chain link fence?",
+            "answer": "Yes, we offer chain link fences in a variety of heights to meet your specific needs and local regulations."
+          },
+          {
+            "question": "Is chain link fencing suitable for pet containment?",
+            "answer": "Yes, chain link fencing is an excellent option for pet containment, providing a secure and visible boundary for your furry friends."
+          }
+        ]
+      },
+      {
+        "slug": "fence-repair",
+        "name": "Fence Repair Services",
+        "shortDescription": "Prompt and reliable fence repairs across Cleveland and surrounding areas.",
+        "description": "Cleveland's harsh winters and humid summers can take a toll on fences. From wind damage to rot and decay, fences can require repair to maintain their structural integrity and appearance. Sterling Fence & Building offers prompt and reliable fence repair services throughout Cleveland and the surrounding areas. We handle all types of fence repairs, including wood fence repair, vinyl fence repair, and chain link fence repair. Our experienced technicians can assess the damage and provide cost-effective solutions to restore your fence to its original condition. We use high-quality materials and proven techniques to ensure lasting repairs. Whether you have a broken post, a sagging gate, or damaged pickets, we can help. We understand the importance of a secure and well-maintained fence and strive to provide fast and efficient service to minimize disruption to your property. Don't let a damaged fence compromise your security or curb appeal. Contact Sterling Fence & Building for professional fence repair services you can trust.",
+        "process": [
+          "Step 1: Thorough inspection to identify the extent of the damage.",
+          "Step 2: Detailed estimate outlining the repair options and costs.",
+          "Step 3: Professional repair using high-quality materials and proven techniques.",
+          "Step 4: Final inspection to ensure the repair is completed to your satisfaction."
+        ],
+        "benefits": [
+          "Restores the security and appearance of your fence",
+          "Extends the lifespan of your fence",
+          "Prevents further damage",
+          "Cost-effective alternative to fence replacement"
+        ],
+        "faq": [
+          {
+            "question": "How much does fence repair cost?",
+            "answer": "The cost of fence repair depends on the extent of the damage and the type of fence. We offer free estimates to provide you with an accurate cost assessment."
+          },
+          {
+            "question": "How long does fence repair take?",
+            "answer": "The duration of fence repair depends on the complexity of the repair. We strive to complete repairs as quickly and efficiently as possible without compromising quality."
+          },
+          {
+            "question": "Do you offer emergency fence repair services?",
+            "answer": "Yes, we offer emergency fence repair services for situations that require immediate attention, such as storm damage or security breaches."
+          }
+        ]
+      },
+      {
+        "slug": "deck-building",
+        "name": "Custom Deck Building",
+        "shortDescription": "Crafting beautiful and durable decks for Cleveland homes.",
+        "description": "Enhance your outdoor living space with a custom-built deck from Sterling Fence & Building. We specialize in designing and building high-quality decks that complement your home and lifestyle. Whether you envision a spacious deck for entertaining or a cozy deck for relaxing, we can bring your vision to life. We offer a variety of decking materials, including wood, composite, and vinyl, allowing you to choose the perfect option for your aesthetic preferences and budget. Our experienced team provides expert deck construction, ensuring proper support, secure railings, and a flawless finish. We understand the importance of building decks that can withstand Cleveland's weather conditions and use durable materials and construction techniques to ensure long-term stability. From initial design to final inspection, we handle every aspect of the deck building process with meticulous attention to detail. We can also incorporate custom features, such as built-in seating, pergolas, and outdoor lighting, to create a truly unique and inviting outdoor space. Transform your backyard into an oasis with a custom deck from Sterling Fence & Building.",
+        "process": [
+          "Step 1: Design consultation to discuss your needs and preferences.",
+          "Step 2: Site evaluation and permitting (if required).",
+          "Step 3: Deck construction using high-quality materials and expert craftsmanship.",
+          "Step 4: Final inspection and cleanup to ensure your complete satisfaction."
+        ],
+        "benefits": [
+          "Increased outdoor living space",
+          "Enhanced property value",
+          "Improved curb appeal",
+          "Customizable design options"
+        ],
+        "faq": [
+          {
+            "question": "How much does a deck cost?",
+            "answer": "The cost of a deck depends on the size, materials, and complexity of the design. We offer free estimates to provide you with an accurate cost assessment."
+          },
+          {
+            "question": "Do I need a permit to build a deck?",
+            "answer": "Permitting requirements vary depending on your location and the size of the deck. We can help you determine if a permit is needed and assist with the application process."
+          },
+          {
+            "question": "What type of decking material is best for Cleveland's climate?",
+            "answer": "Composite decking is an excellent choice for Cleveland's climate, as it is resistant to rot, decay, and insect damage. Wood decking can also be a good option with proper treatment and maintenance."
+          }
+        ]
+      },
+      {
+        "slug": "pergola-construction",
+        "name": "Custom Pergola Construction",
+        "shortDescription": "Adding elegance and shade to Cleveland's outdoor spaces.",
+        "description": "Enhance your backyard or patio with a custom-built pergola from Sterling Fence & Building. Pergolas provide a beautiful and functional addition to any outdoor space, offering shade, privacy, and architectural interest. We specialize in designing and building pergolas that complement your home and landscape. We offer a variety of pergola styles, including traditional, modern, and rustic, allowing you to choose the perfect option for your aesthetic preferences. Our experienced team provides expert pergola construction, ensuring proper support, secure connections, and a flawless finish. We use high-quality materials, such as cedar, redwood, and pressure-treated lumber, to ensure long-term durability and resistance to the elements. We understand the importance of building pergolas that can withstand Cleveland's weather conditions and use proven construction techniques to ensure stability. From initial design to final inspection, we handle every aspect of the pergola construction process with meticulous attention to detail. We can also incorporate custom features, such as climbing plants, lighting, and curtains, to create a truly unique and inviting outdoor space. Transform your backyard into a relaxing oasis with a custom pergola from Sterling Fence & Building.",
+        "process": [
+          "Step 1: Design consultation to discuss your needs and preferences.",
+          "Step 2: Site evaluation and permitting (if required).",
+          "Step 3: Pergola construction using high-quality materials and expert craftsmanship.",
+          "Step 4: Final inspection and cleanup to ensure your complete satisfaction."
+        ],
+        "benefits": [
+          "Provides shade and privacy",
+          "Enhances the beauty of your outdoor space",
+          "Adds architectural interest",
+          "Creates a relaxing outdoor oasis"
+        ],
+        "faq": [
+          {
+            "question": "How much does a pergola cost?",
+            "answer": "The cost of a pergola depends on the size, materials, and complexity of the design. We offer free estimates to provide you with an accurate cost assessment."
+          },
+          {
+            "question": "Do I need a permit to build a pergola?",
+            "answer": "Permitting requirements vary depending on your location and the size of the pergola. We can help you determine if a permit is needed and assist with the application process."
+          },
+          {
+            "question": "What type of wood is best for a pergola?",
+            "answer": "Cedar and redwood are excellent choices for pergolas, as they are naturally resistant to rot and insects. Pressure-treated lumber is also a good option."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Cleveland",
+        "slug": "cleveland-oh",
+        "state": "OH",
+        "content": "Sterling Fence & Building is proud to serve the Cleveland community with top-quality fence installation and repair services. We understand the unique needs of Cleveland homeowners and businesses, from securing properties in bustling downtown areas to enhancing the privacy of homes in quiet residential neighborhoods. Our experienced team is dedicated to providing durable, aesthetically pleasing fences that stand up to Ohio's weather and complement the character of your property. \n\nWhether you're looking for a classic wood fence, a low-maintenance vinyl fence, or a sturdy chain-link fence, we have the expertise to deliver exceptional results. We also offer custom fence designs to meet your specific requirements and enhance your property's curb appeal. Sterling Fence & Building is committed to providing reliable service and lasting value to our Cleveland customers.",
+        "localContext": "Cleveland, a vibrant city on the shores of Lake Erie, is known for its rich history, diverse culture, and passionate sports fans. Sterling Fence & Building understands the importance of blending functionality with aesthetics for properties in this dynamic environment.",
+        "nearbyAreas": [
+          "Parma",
+          "Lakewood",
+          "Shaker Heights"
+        ]
+      },
+      {
+        "city": "Parma",
+        "slug": "parma-oh",
+        "state": "OH",
+        "content": "Sterling Fence & Building extends its expert fence services to the residents and businesses of Parma, Ohio. As a neighboring city to Cleveland, Parma shares a similar climate and architectural landscape, requiring durable and reliable fencing solutions. We offer a wide range of fence styles to suit Parma's diverse neighborhoods, from traditional wood fences to modern vinyl options.\n\nOur team is dedicated to providing professional installation and repair services, ensuring that your fence not only enhances your property's security and privacy but also adds to its overall aesthetic appeal. We understand the importance of working closely with our clients to understand their specific needs and deliver customized solutions that exceed their expectations. Sterling Fence & Building is committed to providing Parma with exceptional fence services and lasting value.",
+        "localContext": "Parma, a large suburb of Cleveland, is known for its family-friendly atmosphere and strong community spirit. Sterling Fence & Building is committed to providing Parma residents with fencing solutions that enhance their homes and neighborhoods.",
+        "nearbyAreas": [
+          "Cleveland",
+          "Brooklyn",
+          "Seven Hills"
+        ]
+      },
+      {
+        "city": "Lakewood",
+        "slug": "lakewood-oh",
+        "state": "OH",
+        "content": "Sterling Fence & Building is pleased to offer its comprehensive fence services to the residents and businesses of Lakewood, Ohio. Known for its beautiful homes and vibrant community, Lakewood requires fencing solutions that are both functional and aesthetically pleasing. We offer a wide variety of fence styles to complement Lakewood's unique architectural character, from classic wood fences to ornamental aluminum fences.\n\nOur experienced team is dedicated to providing professional installation and repair services, ensuring that your fence not only enhances your property's security and privacy but also adds to its overall curb appeal. We understand the importance of working closely with our clients to understand their specific needs and deliver customized solutions that exceed their expectations. Sterling Fence & Building is committed to providing Lakewood with exceptional fence services and lasting value.",
+        "localContext": "Lakewood, a vibrant city on the shores of Lake Erie, is known for its diverse population and historic architecture. Sterling Fence & Building provides fencing solutions that complement the city's unique character.",
+        "nearbyAreas": [
+          "Cleveland",
+          "Rocky River",
+          "Linndale"
+        ]
+      },
+      {
+        "city": "Shaker Heights",
+        "slug": "shaker-heights-oh",
+        "state": "OH",
+        "content": "Sterling Fence & Building proudly serves the beautiful community of Shaker Heights, Ohio, with top-quality fence installation and repair services. Known for its stately homes and meticulously maintained landscapes, Shaker Heights requires fencing solutions that are both elegant and durable. We offer a range of fence styles to complement the city's distinctive architectural character, including classic wood fences, ornamental iron fences, and privacy fences.\n\nOur team is committed to providing professional and courteous service, ensuring that your fence not only enhances your property's security and privacy but also adds to its overall aesthetic appeal. We understand the importance of working closely with our clients to understand their specific needs and deliver customized solutions that exceed their expectations. Sterling Fence & Building is dedicated to providing Shaker Heights with exceptional fence services and lasting value.",
+        "localContext": "Shaker Heights, known for its beautiful parks and historic homes, values quality and craftsmanship. Sterling Fence & Building delivers fencing solutions that reflect these values.",
+        "nearbyAreas": [
+          "Cleveland",
+          "University Heights",
+          "Beachwood"
+        ]
+      },
+      {
+        "city": "Westlake",
+        "slug": "westlake-oh",
+        "state": "OH",
+        "content": "Sterling Fence & Building proudly serves the Westlake, OH community, providing high-quality fence installation and repair. We understand Westlake homeowners value both security and aesthetic appeal. We offer various fencing solutions, from classic wood to modern vinyl, tailored to complement the area's diverse architectural styles. \n\nOur experienced team ensures every project, big or small, is completed with precision and care. We focus on providing durable and beautiful fences that will add value to your Westlake property. Sterling Fence & Building is committed to delivering excellent customer service and long-lasting results.",
+        "localContext": "Westlake, a thriving suburb of Cleveland, offers a mix of residential and commercial properties. Sterling Fence & Building provides fencing solutions to meet the diverse needs of this community.",
+        "nearbyAreas": [
+          "Bay Village",
+          "North Olmsted",
+          "Rocky River"
+        ]
+      },
+      {
+        "city": "Strongsville",
+        "slug": "strongsville-oh",
+        "state": "OH",
+        "content": "Sterling Fence & Building is your trusted partner for fence installation and repair in Strongsville, OH. We understand the needs of Strongsville homeowners, focusing on providing reliable and attractive fencing solutions. Our wide range of options includes wood, vinyl, chain-link, and aluminum fences, ensuring you find the perfect fit for your property. \n\nWe pride ourselves on delivering exceptional craftsmanship and customer service. Our experienced team is dedicated to ensuring your fence project is completed efficiently and to your satisfaction. Sterling Fence & Building is committed to providing long-lasting value and enhancing the beauty and security of your Strongsville home.",
+        "localContext": "Strongsville, known for its family-friendly atmosphere and well-maintained properties, values quality and dependability. Sterling Fence & Building provides fencing solutions that align with these values.",
+        "nearbyAreas": [
+          "North Royalton",
+          "Brunswick",
+          "Middleburg Heights"
+        ]
+      },
+      {
+        "city": "North Olmsted",
+        "slug": "north-olmsted-oh",
+        "state": "OH",
+        "content": "Sterling Fence & Building offers professional fence services to the residents and businesses of North Olmsted, Ohio. We understand the importance of having a secure and aesthetically pleasing fence. We offer a wide range of fencing options to meet your needs, including wood, vinyl, chain-link, and decorative fences. \n\nOur team is dedicated to providing top-quality installation and repair services. We work closely with our clients to ensure their complete satisfaction. Sterling Fence & Building is committed to providing North Olmsted with reliable fencing that enhances property value and provides peace of mind.",
+        "localContext": "North Olmsted, a vibrant city with a mix of residential and commercial areas, benefits from durable and well-maintained fencing. Sterling Fence & Building provides solutions that meet the city's diverse needs.",
+        "nearbyAreas": [
+          "Fairview Park",
+          "Westlake",
+          "Olmsted Falls"
+        ]
+      },
+      {
+        "city": "Euclid",
+        "slug": "euclid-oh",
+        "state": "OH",
+        "content": "Sterling Fence & Building is dedicated to providing Euclid, Ohio, with exceptional fence installation and repair services. We understand the unique challenges and opportunities presented by Euclid's diverse neighborhoods and lakeside location. Our fencing solutions are designed to withstand the elements while enhancing the beauty and security of your property.\n\nWe offer a wide range of fence styles, from traditional wood fences to low-maintenance vinyl options, ensuring that you find the perfect fit for your home or business. Our experienced team is committed to providing professional and reliable service, exceeding your expectations every step of the way. Sterling Fence & Building is proud to serve the Euclid community.",
+        "localContext": "Euclid, a city with a rich history along Lake Erie, benefits from durable and attractive fencing solutions. Sterling Fence & Building helps enhance the city's charm and security.",
+        "nearbyAreas": [
+          "Cleveland",
+          "Wickliffe",
+          "Richmond Heights"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Wood Fence Installation",
+        "text": "Sterling Fence & Building did an outstanding job installing our new wood fence. From the initial consultation to the final cleanup, they were professional, efficient, and detail-oriented. Our backyard looks amazing, and we feel much more secure. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Chain Link Fence Installation",
+        "text": "We needed a chain link fence installed quickly for our business property. Sterling Fence & Building provided a prompt and affordable solution. The installation was fast and efficient, and the fence looks great. Good value for the price.",
+        "date": "2025-04-02"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 5,
+        "service": "Vinyl Fence Repair",
+        "text": "After a bad storm, part of our vinyl fence was damaged. Sterling Fence & Building responded quickly and repaired the fence seamlessly. You can't even tell there was damage. Great service and excellent workmanship!",
+        "date": "2025-04-18"
+      },
+      {
+        "name": "Tom S.",
+        "rating": 5,
+        "service": "Deck Building",
+        "text": "We hired Sterling Fence & Building to build a new deck, and we couldn't be happier with the results. They helped us design a deck that perfectly fits our needs and our backyard. The construction was top-notch, and the deck is beautiful. We highly recommend them!",
+        "date": "2025-05-05"
+      },
+      {
+        "name": "Lisa B.",
+        "rating": 4,
+        "service": "Wood Fence Installation",
+        "text": "Sterling Fence & Building installed a privacy fence for me. Overall, I am pleased with the result. There was a slight delay due to weather, but the communication was good, and the fence looks great. Would use again.",
+        "date": "2025-05-20"
+      },
+      {
+        "name": "Michael C.",
+        "rating": 5,
+        "service": "Pergola Construction",
+        "text": "Sterling Fence & Building built a beautiful pergola for our backyard. It's exactly what we wanted, and the quality of the work is excellent. They were professional, reliable, and easy to work with. Highly recommend!",
+        "date": "2025-06-10"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Sterling Fence & Building | Cleveland, OH",
+        "description": "Cleveland's trusted fence company. Wood, vinyl, chain link fences, decks, pergolas. Free estimates!"
+      },
+      "about": {
+        "title": "About Sterling Fence & Building",
+        "description": "Learn about Sterling Fence & Building's commitment to quality fence & deck solutions in the Cleveland area."
+      },
+      "services": {
+        "title": "Fence & Deck Services | Cleveland, OH",
+        "description": "Expert fence installation, repair, and deck building services in Cleveland. Wood, vinyl, chain link. Get a free quote!"
+      },
+      "contact": {
+        "title": "Contact Sterling Fence & Building",
+        "description": "Get in touch with Sterling Fence & Building for fence and deck services in Cleveland, OH. Call for a free estimate today."
+      },
+      "reviews": {
+        "title": "Sterling Fence & Building Reviews",
+        "description": "Read reviews from satisfied customers of Sterling Fence & Building. Quality fence & deck services in Cleveland, OH."
+      },
+      "service-areas": {
+        "title": "Service Areas | Sterling Fence & Building",
+        "description": "Sterling Fence & Building provides fence and deck services in Cleveland, OH and surrounding communities."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "wood-fence-installation": "/images/service-wood-fence-installation.webp",
+      "vinyl-fence-installation": "/images/service-vinyl-fence-installation.webp",
+      "chain-link-fence-installation": "/images/service-chain-link-fence-installation.webp",
+      "fence-repair": "/images/service-fence-repair.webp",
+      "deck-building": "/images/service-deck-building.webp",
+      "pergola-construction": "/images/service-pergola-construction.webp"
+    },
+    "servicesResponsive": {
+      "wood-fence-installation": {
+        "src": "/images/service-wood-fence-installation.webp",
+        "srcset": "/images/service-wood-fence-installation-400w.webp 400w, /images/service-wood-fence-installation-800w.webp 800w, /images/service-wood-fence-installation-1200w.webp 1200w, /images/service-wood-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-fence-installation": {
+        "src": "/images/service-vinyl-fence-installation.webp",
+        "srcset": "/images/service-vinyl-fence-installation-400w.webp 400w, /images/service-vinyl-fence-installation-800w.webp 800w, /images/service-vinyl-fence-installation-1200w.webp 1200w, /images/service-vinyl-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "chain-link-fence-installation": {
+        "src": "/images/service-chain-link-fence-installation.webp",
+        "srcset": "/images/service-chain-link-fence-installation-400w.webp 400w, /images/service-chain-link-fence-installation-800w.webp 800w, /images/service-chain-link-fence-installation-1200w.webp 1200w, /images/service-chain-link-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fence-repair": {
+        "src": "/images/service-fence-repair.webp",
+        "srcset": "/images/service-fence-repair-400w.webp 400w, /images/service-fence-repair-800w.webp 800w, /images/service-fence-repair-1200w.webp 1200w, /images/service-fence-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-building": {
+        "src": "/images/service-deck-building.webp",
+        "srcset": "/images/service-deck-building-400w.webp 400w, /images/service-deck-building-800w.webp 800w, /images/service-deck-building-1200w.webp 1200w, /images/service-deck-building.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "pergola-construction": {
+        "src": "/images/service-pergola-construction.webp",
+        "srcset": "/images/service-pergola-construction-400w.webp 400w, /images/service-pergola-construction-800w.webp 800w, /images/service-pergola-construction-1200w.webp 1200w, /images/service-pergola-construction.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

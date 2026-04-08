@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-sterling-fence-building.dream-surge.com/sitemap-index.xml
